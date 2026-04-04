@@ -1,6 +1,20 @@
 import { calendar, location } from './icons'
 export default [
   {
+    path: '#',
+    heading: 'Building Reliable LLM Evals That Actually Work in Production',
+    links: [{
+      prefix: calendar,
+      name: 'Apr 12, 2026',
+      path: '#'
+    }, {
+      prefix: location,
+      name: 'AI India, Delhi',
+      path: 'https://nomadcoder.ai/event/9'
+    }],
+    description: "Benchmarks have become unreliable. Major AI labs are gaming evaluation metrics. Data contamination inflates scores. And there is a documented 25–30% accuracy drop between benchmark performance and production reality. Meanwhile, LLM-as-judge evaluators hallucinate scores, and most teams are flying blind without knowing if their system is actually improving. This talk reveals why traditional benchmarks fail and introduces a production-aligned evaluation framework that actually works—Eval-Driven Development (EDD). You will learn how to: Source golden datasets from production logs (not synthetic data), avoiding the eval-production gap that catches everyone off-guard. Mix three grading strategies—code-based (fast) , model-based (flexible) , human (calibration) —to build reliable evaluations at scale Close the feedback loop: Production failures → curated datasets → offline evals → CI/CD gates → monitored rollout → production insights → dataset refresh Distinguish capability vs. regression evals, each serving different purposes (drive improvement vs. prevent backsliding) Implement continuous evaluation infrastructure with automated scoring, real-time alerts, and regression detection that actually catches problems before users do'
+  },
+  {
     path: 'https://www.linkedin.com/posts/piyukore06_ngpune-ngindia-aiindia-activity-7383018590402428928-KZHT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAfuxOEByktzoWhoI_BAIPYrQF3s6LzRpng',
     heading: 'RAG is not dead',
     links: [{
