@@ -96,27 +96,36 @@
 <br />
 <div class="name">Hi! I am Priyanka 👋🏻</div>
 
-I am a front-end Developer, preoccupied with finding simplest solutions.
+I am a technology leader focused on building AI-driven systems and enabling teams to adopt AI in real-world software development.
 <br />
 <br />
-<br />
-<strong>🚀 Passionate About Performance</strong>
-As a frontend developer, I'm on a mission to make the web faster and more efficient. I believe that exceptional user experiences start with blazing-fast web applications. My work is dedicated to optimizing performance, enhancing loading times, and ensuring seamless interactions for users.
-<br />
-<br />
-<strong>💡 Advocate for Knowledge Sharing</strong>
-I'm not just a developer; I'm a firm believer in the power of sharing knowledge. Whether I'm giving talks at industry events or writing blog posts on the latest web technologies, I'm committed to helping others learn and grow in the field. Together, we can make the web a better place.
+
+<strong>🚀 Building AI Systems That Actually Work</strong>  
+I design and implement GenAI-powered solutions—from agentic workflows to AI-accelerated SDLC systems. My work focuses on making AI reliable and usable at scale through strong foundations like evaluation frameworks, observability, and well-defined system patterns.
 <br />
 <br />
-<strong>🚀 Let's Elevate the Web Together</strong>
-Join me in the quest for a faster, more accessible web. Whether you're a fellow developer or a curious learner, let's connect, collaborate, and explore the exciting world of frontend development and performance optimization.
+
+<strong>🧠 From Code to AI Platforms</strong>  
+With a background in frontend engineering, I now work on AI platforms, agents, and developer workflows. I enjoy shaping how teams build with AI—defining reusable patterns, workflows, and tooling that improve both productivity and quality.
 <br />
 <br />
-<strong>📬 Contact Me</strong>
-Feel free to reach out to me at my social media handles. I'm always eager to engage in meaningful discussions, share ideas, and contribute to the vibrant developer community.
+
+<strong>💡 Enabling Teams, Not Just Building Systems</strong>  
+I actively drive AI adoption through workshops, internal initiatives, and hands-on collaboration. I also share insights through talks and content, contributing to the growing conversation around practical AI in engineering.
 <br />
 <br />
-Currently working at <a target="_blank" class="normal-link" href="https://www.adesso.de/"> Adesso</a>.
+
+<strong>🌍 Let’s Build the Future of Development</strong>  
+If you're exploring AI in software development or building intelligent systems, I’d love to connect, collaborate, and exchange ideas.
+<br />
+<br />
+
+<strong>📬 Contact Me</strong>  
+Feel free to reach out via my social channels—I’m always open to meaningful conversations around AI, engineering, and building better systems.
+<br />
+<br />
+
+Currently working at <a target="_blank" class="normal-link" href="https://www.adesso.de/">Adesso India</a>.
 <br>
 <br>
 {#if upcoming.length}
