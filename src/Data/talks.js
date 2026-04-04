@@ -1,6 +1,34 @@
 import { calendar, location } from './icons'
 export default [
   {
+    path: 'https://www.linkedin.com/posts/piyukore06_ngpune-ngindia-aiindia-activity-7383018590402428928-KZHT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAfuxOEByktzoWhoI_BAIPYrQF3s6LzRpng',
+    heading: 'RAG is not dead',
+    links: [{
+      prefix: calendar,
+      name: 'Oct 11, 2025',
+      path: '#'
+    }, {
+      prefix: location,
+      name: 'Nomadcoder AI Day, Pune',
+      path: 'https://nomadcoder.ai/event/9'
+    }],
+    description: 'RAG is not Dead!'
+  },
+  {
+    path: 'https://www.linkedin.com/posts/piyukore06_ai-softwaredevelopment-techeducation-activity-7374722944322912256-wrvi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAfuxOEByktzoWhoI_BAIPYrQF3s6LzRpng',
+    heading: 'NextGen Software Development with AI',
+    links: [{
+      prefix: calendar,
+      name: 'Sep 18, 2025',
+      path: '#'
+    }, {
+      prefix: location,
+      name: 'PCCoE Pune',
+      path: '#'
+    }],
+    description: 'Next-Gen Software Development with AI in Industry 4.0.'
+  },
+  {
     path: 'https://js-i-love-you.netlify.app/',
     heading: 'JS I love you ♥️',
     links: [{
