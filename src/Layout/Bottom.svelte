@@ -48,7 +48,7 @@
  }
 }
 </style>
-<div class="copyright">© 2021 Priyanka Kore</div>
+<div class="copyright">© 2025 Priyanka Kore</div>
 <div class="love">Made with ♥️</div>
 <div class="bottom"></div>
 <div class="bottom-background"></div>
