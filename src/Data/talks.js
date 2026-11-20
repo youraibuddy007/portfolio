@@ -2,6 +2,34 @@ import { calendar, location } from './icons'
 export default [
   {
     path: '#',
+    heading: 'Self Improving Agent Architecture',
+    links: [{
+      prefix: calendar,
+      name: 'Nov 21, 2026',
+      path: '#'
+    }, {
+      prefix: location,
+      name: 'Ai India, Pune',
+      path: 'https://www.ai-india.ai/home#speakers'
+    }],
+    description: `A growing class of agentic systems don't just execute tasks — they rewrite their own prompts, regenerate their own tool definitions, and restructure their own workflows in response to failure. It's a compelling premise: an agent that debugs itself. But in practice, these systems tend to improve fast and then flatten out, often well short of human-level reliability, and the reasons why are more structural than incidental. This talk walks through real self-improving agent architectures — prompt-rewriting loops, tool-synthesis agents that generate their own function definitions, and reflection-based agents that critique and revise their own outputs — and traces where each one hits a ceiling. We'll dig into the core failure modes: reward hacking against weak self-evaluation signals, drift where "improvement" optimizes for the agent's own proxy metric rather than the actual task, compounding errors when an agent edits a tool it doesn't fully understand, and the absence of a reliable external ground truth to rewrite against. We'll also cover what actually pushes the plateau higher in practice — human-in-the-loop checkpoints, external verifiers, sandboxed testing before a self-edit ships, and hard limits on how much an agent is allowed to change per iteration.`
+  },
+  {
+    path: '#',
+    heading: 'Superuser Patterns and Harness Engineering',
+    links: [{
+      prefix: calendar,
+      name: 'Apr 25, 2026',
+      path: '#'
+    }, {
+      prefix: location,
+      name: 'JS Pune 03',
+      path: 'https://luma.com/n1aw25q4'
+    }],
+    description: "Claude code superuser playbook"
+  },
+  {
+    path: '#',
     heading: 'Building Reliable LLM Evals That Actually Work in Production',
     links: [{
       prefix: calendar,
